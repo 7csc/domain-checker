@@ -1,0 +1,7 @@
+[[domains]]
+name = "example.com"
+ports = { http = 80, https = 443, ssh = 22 }
+
+[[domains]]
+name = "www.sample.net"
+ports = { http = 80, https = 443, ssh = 22  }
