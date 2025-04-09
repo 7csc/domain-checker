@@ -1,6 +1,6 @@
-# Doch - Domain Checker
+# Domain Checker
 
-`doch` is a command-line tool to check the status, IP address, cloud service, and port availability of specified domains.  
+Command-line tool to check the status, IP address, cloud service, and port availability of specified domains.  
 The target domains and ports can be configured in a **TOML file**, allowing for flexible customization.
 
 ## Features
@@ -20,7 +20,7 @@ The target domains and ports can be configured in a **TOML file**, allowing for 
 ```sh
 git clone https://github.com/7csc/domain-checker.git
 cd domain-checker
-go build -o doch
+go build -o doch(sample)
 ```
 
 ## Usage
